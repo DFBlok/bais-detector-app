@@ -1,0 +1,41 @@
+gender,race,y_pred,y_true,race_sa,province_sa
+0,White,0,0,White,Limpopo
+0,White,1,0,White,KwaZulu-Natal
+0,White,0,0,White,Mpumalanga
+0,White,1,0,White,Free State
+0,White,0,0,White,Limpopo
+1,White,0,0,White,Eastern Cape
+1,White,0,0,White,Limpopo
+0,White,1,1,White,Mpumalanga
+0,White,0,0,White,Free State
+1,White,1,0,White,KwaZulu-Natal
+0,Black,1,1,Black African,Mpumalanga
+1,Black,0,0,Black African,Mpumalanga
+0,Black,0,1,Black African,Eastern Cape
+1,Black,1,1,Black African,North West
+0,Black,0,0,Black African,Free State
+1,Black,0,0,Black African,Western Cape
+0,Black,1,1,Black African,Mpumalanga
+1,Black,0,0,Black African,North West
+0,Black,1,1,Black African,Western Cape
+0,Black,0,0,Black African,Free State
+0,Coloured,0,0,,Gauteng
+1,Coloured,0,0,,North West
+0,Coloured,0,0,,Northern Cape
+1,Coloured,1,1,,Gauteng
+0,Coloured,1,1,,Eastern Cape
+1,Coloured,1,1,,Limpopo
+1,Coloured,0,0,,KwaZulu-Natal
+0,Coloured,1,1,,Northern Cape
+1,Coloured,1,1,,Eastern Cape
+0,Coloured,0,1,,Free State
+0,Indian,1,0,,Eastern Cape
+0,Indian,1,1,,Limpopo
+1,Indian,1,1,,Free State
+1,Indian,1,1,,Northern Cape
+0,Indian,0,0,,Limpopo
+1,Indian,0,1,,Western Cape
+1,Indian,0,0,,KwaZulu-Natal
+1,Indian,0,0,,Northern Cape
+0,Indian,1,1,,Western Cape
+0,Indian,0,0,,Northern Cape
